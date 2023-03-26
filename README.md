@@ -1,4 +1,5 @@
 # Giveaway
+<img src="https://metrics.lecoq.io/insights/I-Am-Jakoby">	
 
 ![hak 5](https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/img/hak5-banner.png)
 
@@ -13,13 +14,14 @@ After winning I immedietely contacted Darren and asked to have it split into `20
 
 I don't know what it is, my favorite thing in the entire world is giving stuff away. It makes me feel like I deserve to be here. 
 
-## How to Enter
+## <img src="https://github.com/I-Am-Jakoby/GiveAways/raw/main/Assets/av.gif" width="50px">&nbsp;***How to Enter ....***
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-1. **Fork**: Fork this repository.
-2. **Branch**: Create a new branch with your GitHub username.
-3. **PR**: Make a pull request to the main branch.
-4. **Win**: Get a chance to win amazing prizes!
+1. [LIKE AND RETWEET THIS](www.google.com)<img src="https://github.com/I-Am-Jakoby/GiveAways/raw/main/Assets/animated-heart.gif" width="50px"><img src="https://github.com/I-Am-Jakoby/GiveAways/raw/main/Assets/share-twitter.gif" width="50px">
+2. [SUBSCRIBE](www.google.com)<img src="https://github.com/I-Am-Jakoby/GiveAways/raw/main/Assets/yt-sub2.gif" width="50px">
+3. [Leave a comment on that tweet saying what you would get with the Hak5 giftcard](www.google.com)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -29,16 +31,16 @@ I don't know what it is, my favorite thing in the entire world is giving stuff a
 - You can submit as many pull requests as you want, but only one entry per person will be considered.
 - Winners will be selected at random on the last day of the month.
 
-## Previous Winners
-
 ✅✅✅☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️     -     17/20 GiftCards Left
+
+## Previous Winners 
 ___
 
-| #          | Name|
-| :----------| :----------|
-| 1          | [Miggle](https://twitter.com/miguemely101) |          
-| 2          | [Chitra](https://twitter.com/t3st37)       |
-| 3          | [Ajm41](Ajm41)                             | 
+| #          | Name       | Prize      | Date       |
+| :----------| :----------| :----------| :----------|
+| 1          | [Miggle](https://twitter.com/miguemely101) | **$100** Hak5 GiftCard | 123 |          
+| 2          | [Chitra](https://twitter.com/t3st37)       | **$100** Hak5 GiftCard | 123 |
+| 3          | [Ajm41](Ajm41)                             | **$100** Hak5 GiftCard | 123 | 
       
 
 
