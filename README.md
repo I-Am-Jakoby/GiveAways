@@ -1,5 +1,4 @@
-# Giveaway
-<img src="https://metrics.lecoq.io/insights/I-Am-Jakoby">	
+# Giveaway	
 
 ![hak 5](https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/img/hak5-banner.png)
 
