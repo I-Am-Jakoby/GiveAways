@@ -20,7 +20,7 @@ I don't know what it is, my favorite thing in the entire world is giving stuff a
 
 1. [LIKE AND RETWEET THIS](https://twitter.com/I_Am_Jakoby/status/1640027767604498432)<img src="https://github.com/I-Am-Jakoby/GiveAways/raw/main/Assets/animated-heart.gif" width="50px"><img src="https://github.com/I-Am-Jakoby/GiveAways/raw/main/Assets/share-twitter.gif" width="50px">
 2. [SUBSCRIBE](https://twitter.com/I_Am_Jakoby/status/1640027767604498432)<img src="https://github.com/I-Am-Jakoby/GiveAways/raw/main/Assets/yt-sub2.gif" width="50px">
-3. [Leave a comment on that tweet saying what you would get with the Hak5 giftcard](https://twitter.com/I_Am_Jakoby/status/1640027767604498432)
+3. [Leave a comment on that tweet saying what you would get with the Hak5 giftcard](https://www.youtube.com/@iamjakoby)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
