@@ -26,14 +26,16 @@ I don't know what it is, my favorite thing in the entire world is giving stuff a
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">&nbsp;***GUIDELINES ....***
 
-- Your pull request must be unique and add value to the repository.
-- You can submit as many pull requests as you want, but only one entry per person will be considered.
-- Winners will be selected at random on the last day of the month.
+- Winner will be picked at random 
+- Give away ends Tuesday 6pm CST March 28th
+- Winner will have 48 hours to respond to a twitter DM or there will be a redraw
 
+---
 ✅✅✅☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️     -     17/20 GiftCards Left
 
+---
+
 ## Previous Winners 
-___
 
 | #          | Name       | Prize      | Date       |
 | :----------| :----------| :----------| :----------|
