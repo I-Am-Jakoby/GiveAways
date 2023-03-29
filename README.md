@@ -39,9 +39,10 @@ I don't know what it is, my favorite thing in the entire world is giving stuff a
 
 | #          | Name       | Prize      | Date       |
 | :----------| :----------| :----------| :----------|
-| 1          | [Miggle](https://twitter.com/miguemely101) | **$100** Hak5 GiftCard | 123 |          
-| 2          | [Chitra](https://twitter.com/t3st37)       | **$100** Hak5 GiftCard | 123 |
-| 3          | [Ajm41](Ajm41)                             | **$100** Hak5 GiftCard | 123 | 
+| 1          | [Miggle](https://twitter.com/miguemely101)       | **$100** Hak5 GiftCard | 123 |          
+| 2          | [Chitra](https://twitter.com/t3st37)             | **$100** Hak5 GiftCard | 123 |
+| 3          | [Ajm41](Ajm41)                                   | **$100** Hak5 GiftCard | 123 |
+| 4          | [MrMidnight](https://twitter.com/MrMidnight53)   | **$100** Hak5 GiftCard | 28 March 2023 |  
       
 
 
