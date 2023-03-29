@@ -1,3 +1,26 @@
+<div class="dropdown">
+  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Click to Expand
+  </button>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    This is some example content for my dropdown section. It can contain any Markdown or HTML elements, such as:
+
+    - Lists
+    - Images
+    - Code snippets
+
+    ![Example Image](https://via.placeholder.com/350x150)
+
+    ```
+    # Example Code Snippet
+    def greet(name):
+        print(f"Hello, {name}!")
+
+    greet("world")
+    ```
+  </div>
+</div>
+
 # Giveaway	
 
 ![hak 5](https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/img/hak5-banner.png)
