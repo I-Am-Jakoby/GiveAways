@@ -18,10 +18,13 @@ I don't know what it is, my favorite thing in the entire world is giving stuff a
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+# The current giveaway has ended, stay posted for future giveaways!
+
+<!--
 1. [LIKE AND RETWEET THIS](https://twitter.com/I_Am_Jakoby/status/1640027767604498432)<img src="https://github.com/I-Am-Jakoby/GiveAways/raw/main/Assets/animated-heart.gif" width="50px"><img src="https://github.com/I-Am-Jakoby/GiveAways/raw/main/Assets/share-twitter.gif" width="50px">
 2. [SUBSCRIBE](https://www.youtube.com/@iamjakoby)<img src="https://github.com/I-Am-Jakoby/GiveAways/raw/main/Assets/yt-sub2.gif" width="50px">
 3. [Leave a comment on that tweet saying what you would get with the Hak5 giftcard](https://twitter.com/I_Am_Jakoby/status/1640027767604498432)
-
+-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">&nbsp;***GUIDELINES ....***
@@ -31,7 +34,7 @@ I don't know what it is, my favorite thing in the entire world is giving stuff a
 - Winner will have 48 hours to respond to a twitter DM or there will be a redraw
 
 ---
-✅✅✅☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️     -     17/20 GiftCards Left
+✅✅✅✅☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️     -     16/20 GiftCards Left
 
 ---
 
