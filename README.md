@@ -15,6 +15,10 @@ After winning I immedietely contacted Darren and asked to have it split into `20
 
 I don't know what it is, my favorite thing in the entire world is giving stuff away. It makes me feel like I deserve to be here. 
 
+## Twitter Giveaways
+<!-- TABLE OF CONTENTS -->
+<details>
+
 ## <img src="https://github.com/I-Am-Jakoby/GiveAways/raw/main/Assets/av.gif" width="50px">&nbsp;***How to Enter ....***
 
 
@@ -34,6 +38,8 @@ I don't know what it is, my favorite thing in the entire world is giving stuff a
 - Winner will be picked at random 
 - Give away ends Tuesday 6pm CST March 28th
 - Winner will have 48 hours to respond to a twitter DM or there will be a redraw
+
+</details>
 
 ---
 ✅✅✅✅☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️     -     16/20 GiftCards Left
