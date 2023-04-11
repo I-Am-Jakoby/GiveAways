@@ -35,6 +35,20 @@ I don't know what it is, my favorite thing in the entire world is giving stuff a
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">&nbsp;***GUIDELINES ....***
 
+| Tip | Description |
+| --- | --- |
+| 1. | Brainstorm: Start by brainstorming words or phrases that relate to your podcast's topic, theme, or purpose. Write down anything that comes to mind, no matter how silly or unrelated it may seem. |
+| 2. | Research: Do some research to see what other podcasts in your niche are named. This can give you ideas and help you avoid duplicating a name that's already taken. |
+| 3. | Be specific: Make sure your podcast name accurately reflects what your show is about. It should be clear and specific enough to give potential listeners an idea of what they can expect. |
+| 4. | Keep it short: A long or complicated podcast name can be hard to remember and difficult to type in search engines or podcast directories. Aim for a name that's short and catchy. |
+| 5. | Use keywords: Including keywords in your podcast name can make it easier for people to find your show when searching online. Just make sure they're relevant and not too generic. |
+| 6. | Avoid being too specific: While it's important to be specific, you don't want to be too narrow in your focus. You may want to leave room for your podcast to evolve and cover other related topics in the future. |
+| 7. | Be memorable: A memorable podcast name can help your show stand out from the competition. Consider using alliteration, puns, or other creative wordplay to make your name more memorable. |
+| 8. | Test it out: Once you have a few potential names, test them out on friends, family, or colleagues. Get their feedback and see which names resonate with them the most. |
+| 9. | Think about branding: Your podcast name should be part of your overall branding strategy. Consider how it will look on your website, social media, and other promotional materials. |
+| 10. | Be original: Above all, make sure your podcast name is unique and original. You want to avoid confusion with other shows and make a name for yourself in the podcasting world. |
+
+
 - Winner will be picked at random 
 - Give away ends Tuesday 6pm CST March 28th
 - Winner will have 48 hours to respond to a twitter DM or there will be a redraw
